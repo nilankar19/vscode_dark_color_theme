@@ -1,0 +1,33 @@
+{
+  "name": "simple-theme-color",
+  "displayName": "Simple theme color",
+  "description": "simple eye smoothing theme",
+  "publisher": "ms-vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "relax theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/relax-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode-wordcount.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["theme", "relax", "dark theme", "simple"],
+  "author": "nilankar",
+  "license": "ISC"
+}
