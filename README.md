@@ -1,0 +1,1 @@
+# vscode_dark_color_theme
