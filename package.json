@@ -2,8 +2,8 @@
   "name": "simple-theme-color",
   "displayName": "Simple theme color",
   "description": "simple eye smoothing theme",
-  "publisher": "trivexon",
-  "version": "0.0.1",
+  "publisher": "Nilankar",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -23,7 +23,14 @@
     "type": "git",
     "url": "https://github.com/nilankar19/vscode_dark_color_theme.git"
   },
-  "keywords": ["theme", "relax", "dark theme", "simple", "dark-soothing"],
+  "keywords": [
+    "theme",
+    "relax",
+    "dark theme",
+    "simple",
+    "dark-soothing"
+  ],
   "author": "nilankar",
   "license": "ISC"
+
 }
